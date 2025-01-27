@@ -1,1 +1,3 @@
 lalalalala
+
+atualizações git log e git rm -rf
