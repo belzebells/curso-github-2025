@@ -9,7 +9,7 @@ git reset idCommit > retorna para pos-commit
 28/01/2025
 git add
 git reset nome_do_arquivo
-
+git log
 
 ## FLUXO DE TRABALHO
 
