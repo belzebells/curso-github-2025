@@ -1,3 +1,23 @@
-lalalalala
+git init . > cria um repositório git na pasta atual 
+git status > mostra o status do trabalho (de cada arquivo) / mostra o status da branch atual
+git add nome_do_arquivo > adicionar arquivo para ser commitado / manda arquivo para stage
+git commit -m "msg" > faz commit do que estava para ser commitado z/ consolida checkpoint "commit"
+git log > mostra todo o histórico do commit
+git reset > retorna para unstage
+git reset idCommit > retorna para pos-commit 
 
-atualizações git log e git rm -rf
+28/01/2025
+git add
+git reset nome_do_arquivo
+
+
+## FLUXO DE TRABALHO
+
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome_arquivo>
+6. git commit -m "mensagem"
+7. volta para o passo 3
+
