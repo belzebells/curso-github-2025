@@ -1,3 +1,7 @@
 25/01/2025
 
 este arquivo contém informações sobre git
+
+atualização para main
+
+comandos mais genérico
