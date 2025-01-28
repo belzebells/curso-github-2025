@@ -2,4 +2,10 @@ documento que tava sem texto
 
 agora tem texto
 
+<<<<<<< HEAD
 agora tem jojo
+=======
+maluciooooo
+>>>>>>> bells
+
+em dúvida, não sei se era isso
